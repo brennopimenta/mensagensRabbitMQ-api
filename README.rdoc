@@ -1,0 +1,4 @@
+Enviando e Consumindo Mensagens nas Filas do RabbitMQ - Usando SpringBoot com SpringAmqp
+
+-Esta api mostra de forma simples como enviar uma simples mensagem para uma fila do RabbitMQ
+-Esta api mostra como criar um serviço de escuta para consumir as mensagens que chegam em um fila do RabbitMQ
